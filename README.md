@@ -11,7 +11,7 @@ Let's do this together! Share any thoughts that you believe will build a better 
 Learning objectives: 
 1. Know how to clean data for supervised learning
 2. Use 4-6 different models
-3. get RMSE as small as possible, ideally 15%
+3. get RMSE as small as possible, ideally top 15%
 
 
 3/28/2022 - 4/3/2022
