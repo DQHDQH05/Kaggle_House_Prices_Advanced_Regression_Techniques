@@ -15,7 +15,14 @@ Learning objectives:
 
 
 3/28/2022 - 4/3/2022
-1. Data Clean
+##1. Data Clean
 1) Check distribution, then determining outliers
 2) Think about how to deal with NA and O values
-3) 
+
+Data clean: 
+1-20: Qu Zhou
+21-40: Ziyi Li
+41-60: Tianyu Ying
+61-79: Qihong Dai
+
+4/4/2022 discussion for next step!
