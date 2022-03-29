@@ -4,9 +4,9 @@ Kaggle project: https://www.kaggle.com/competitions/house-prices-advanced-regres
 Let's do this together! Share any thoughts that you believe will build a better model!
 
 
-##################################################################################################
-3/28/2022 
-##################################################################################################
+################################################################################################## <br />
+3/28/2022 <br />
+################################################################################################## <br />
 
 Learning objectives: 
 1. Know how to clean data for supervised learning
