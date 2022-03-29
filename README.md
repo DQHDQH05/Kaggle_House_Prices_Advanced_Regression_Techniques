@@ -20,9 +20,9 @@ Learning objectives:
 2) Think about how to deal with NA and 0 values
 
 Data clean job for each member: 
-1-20: Qu Zhou_
-21-40: Ziyi Li_
-41-60: Tianyu Ying_
-61-79: Qihong Dai_
+1-20: Qu Zhou__
+21-40: Ziyi Li__
+41-60: Tianyu Ying__
+61-79: Qihong Dai__
 
 4/4/2022 discussion for next step!
