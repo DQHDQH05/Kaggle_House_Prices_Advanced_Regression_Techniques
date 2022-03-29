@@ -14,8 +14,8 @@ Learning objectives:
 3. get RMSE as small as possible, ideally top 15%
 
 
-3/28/2022 - 4/3/2022
-##1. Data Clean
+3/28/2022 - 4/3/2022 <br />
+##1. Data Clean <br />
 1) Check distribution, then determining outliers
 2) Think about how to deal with NA and 0 values
 
