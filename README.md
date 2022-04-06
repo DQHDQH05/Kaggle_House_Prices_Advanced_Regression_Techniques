@@ -35,4 +35,4 @@ Objective:
 1. Keep all instances (rows)
 2. Delete features if >50% NA and NAs don't have meanings
 3. KNN to fill resting NA values based on other value of this feature? Or use mean/median values?
-4. convert all categorical features to dummy variables
+4. convert all categorical features to dummies
