@@ -35,4 +35,4 @@ Objective:
 1. Keep all instances (rows)
 2. Delete features if >50% NaN and NaN don't have meanings
 3. KNN regression to fill resting NaN values based on other value of this feature (x=this feature, y=price) --> Use this as primary method (Plan B: use mean/median values)
-4. convert all categorical features to dummies
+4. Don't change categorical features to numerical ones, convert all categorical features to dummies (0,1) (e.g. Alley --> Alley_Grvl, Alley_Paved, Alley_NA)
