@@ -10,7 +10,7 @@ Let's do this together! Share any thoughts that you believe will build a better 
 
 Learning objectives: 
 1. Know how to clean data for supervised learning
-2. Use 4-6 different models (lightGBM, XGBoost?)
+2. Use 4-6 different models (Tree: lightGBM, XGBoost? Linear Regression: Ridge, Lasso, Elastic Net, PLS regression)
 3. get RMSE as small as possible, ideally top 15%
 
 
@@ -26,3 +26,13 @@ COL 41-60: Tianyu Ying <br />
 COL 61-79: Qihong Dai <br />
 
 4/4/2022 discussion for next step!
+
+################################################################################################## <br />
+4/5/2022 <br />
+################################################################################################## <br />
+
+Objective:
+1. Keep all instances (rows)
+2. Delete features if >50% NA and NAs don't have meanings
+3. KNN to fill resting NA values based on other value of this feature? Or use mean/median values?
+4. convert all categorical features to dummy variables
