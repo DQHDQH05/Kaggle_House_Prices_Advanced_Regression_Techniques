@@ -34,5 +34,5 @@ COL 61-79: Qihong Dai <br />
 Objective:
 1. Keep all instances (rows)
 2. Delete features if >50% NA and NAs don't have meanings
-3. KNN to fill resting NA values based on other value of this feature? Or use mean/median values?
+3. KNN regression to fill resting NA values based on other value of this feature (x=this feature, y=price) --> Use this as primary method (Plan B: use mean/median values)
 4. convert all categorical features to dummies
