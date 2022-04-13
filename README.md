@@ -42,6 +42,6 @@ Good job everyone!
 ################################################################################################## <br />
 4/5/2022 <br />
 ################################################################################################## <br />
-Ziyi: Random Forest, PLSR
-Qu: lightGBM, Lasso
-Qihong: XGBoost, Ridge, Elastic Net
+Ziyi: Random Forest, PLSR <br />
+Qu: lightGBM, Lasso <br />
+Qihong: XGBoost, Ridge, Elastic Net <br />
