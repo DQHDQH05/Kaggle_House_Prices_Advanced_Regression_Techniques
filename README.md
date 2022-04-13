@@ -42,7 +42,7 @@ Good job everyone!
 ################################################################################################## <br />
 4/12/2022 <br />
 ################################################################################################## <br />
-Qihong will merge and standardize all data <br />
+Qihong will merge and standardize all data. <br />
 
 Then, we will use different models: <br />
 Ziyi: Random Forest, PLSR <br />
