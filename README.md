@@ -38,3 +38,10 @@ Objective:
 4. Don't change categorical features to numerical ones, convert all categorical features to dummies (0,1) (e.g. Alley --> Alley_Grvl, Alley_Paved, Alley_NA)
 
 Good job everyone!
+
+################################################################################################## <br />
+4/5/2022 <br />
+################################################################################################## <br />
+Ziyi: Random Forest, PLSR
+Qu: lightGBM, Lasso
+Qihong: XGBoost, Ridge, Elastic Net
