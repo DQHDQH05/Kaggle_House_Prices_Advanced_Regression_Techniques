@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 # read data on win
 Qu = 'C:/Users/Qihong/Box/1_Kaggle/Housing_Price_Prediction/preprocessed_Qu(1_20).csv'
 Ziyi = 'C:/Users/Qihong/Box/1_Kaggle/Housing_Price_Prediction/preprocessed_Ziyi(21_40).csv'
-Qihong = 'C:/Users/Qihong/Box/1_Kaggle/Housing_Price_Prediction/preprocessed_Qihong(61_80).csv'
+Qihong = 'C:/Users/Qihong/Box/1_Kaggle/Housing_Price_Prediction/preprocessed_Qihong(41_78).csv'
 
 # Merge 
 df_all = pd.concat(map(pd.read_csv, [Qu,Ziyi,Qihong]), axis=1)
