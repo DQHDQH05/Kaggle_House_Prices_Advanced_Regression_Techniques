@@ -21,7 +21,7 @@ df_all = pd.concat(map(pd.read_csv, [Qu,Ziyi,Qihong]), axis=1)
 pr = df_all[['SalePrice']]
 df = df_all.drop('SalePrice', axis=1)
 
-##tandardize no_dummies columns
+##standardize no_dummies columns
 no_dummies = [col for col in df.columns if '_' not in col]
 df[no_dummies] = StandardScaler().fit_transform(df[no_dummies])
 
